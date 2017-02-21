@@ -1,0 +1,27 @@
+nav {
+  height: 60px;
+  background-color: grey;
+  position: fixed;
+  width: 100%;
+  text-align: right;
+}
+
+.logo {
+  text-align: left;
+  padding: 20px 15px;
+  font-size: 20px;
+  position: absolute;
+}
+
+ul li {
+  display: inline-block;
+  position: relative;
+  padding: 20px 15px;
+  font-size: 20px;
+  right: 100px;
+}
+
+li a {
+  color: purple;
+  text-decoration: none;
+}
