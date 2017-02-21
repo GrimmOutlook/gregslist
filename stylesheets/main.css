@@ -1,6 +1,6 @@
 nav {
   height: 60px;
-  background-color: grey;
+  background-color: #c8c8c8;
   position: fixed;
   width: 100%;
   text-align: right;
@@ -25,3 +25,78 @@ li a {
   color: purple;
   text-decoration: none;
 }
+
+main {
+  padding-left: 100px;
+  padding-top: 100px;
+}
+
+label {
+  font-family: 'Times New Roman', serif;
+  font-size: 22px;
+  display: block;
+}
+
+input {
+  display: inline-block;
+  height: 35px;
+  width: 600px;
+  font-family: 'Times New Roman', serif;
+  font-size: 22px;
+  border-radius: 5px;
+}
+
+button {
+  position: relative;
+  height: 35px;
+  width: 35px;
+  border-radius: 2px;
+  padding-top: 5px;
+}
+
+img {
+  height: 35px;
+  position: absolute;
+  left: -2px;
+  top: -3px;
+  padding-top: 5px;
+}
+
+.pagination p {
+  font-family: 'Times New Roman', serif;
+  font-size: 22px;
+  width: 400px;
+  padding: 8px;
+  border: 1px solid #c8c8c8;
+  margin-top: 55px;
+  border-radius: 5px;
+}
+
+.pagination span {
+  font-family: 'Times New Roman', serif;
+  font-size: 30px;
+  padding: 0 5px;
+  border-right: 1px solid #c8c8c8;
+  border-left: 1px solid #c8c8c8;
+  margin-top: 55px;
+  border-radius: 5px;
+}
+
+ul li {
+  width: 500px;
+  margin-top: 85px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
